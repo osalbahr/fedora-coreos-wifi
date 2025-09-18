@@ -1,0 +1,13 @@
+{
+  "ignition": {
+    "version": "3.5.0"
+  },
+  "passwd": {
+    "users": [
+      {
+        "name": "core",
+        "passwordHash": "$y$j9T$6mDHd7Pw2zMNUTuNPyI9A.$lYs3RF/1OQ/z8x5mcC6rY.uy08c5GqXnHvaUqqxYr00"
+      }
+    ]
+  }
+}
